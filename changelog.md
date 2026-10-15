@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-10-15 — Método V3, métricas, modelo low-ticket, nomenclatura, ROAS
+### Qué cambió
+- Nuevas páginas: [[metodo-v3]], [[metricas-y-kpis]], [[modelo-low-ticket]], [[nomenclatura-del-metodo]], [[optimizacion-de-roas]]. Van 29 de las 46.
+- Ya existe `modelo-low-ticket`: los enlaces provisionales que apuntaban a `modelo-de-negocio` en las páginas importadas se reapuntaron solos. `modelo-de-negocio` sigue siendo **tu** modelo y `modelo-low-ticket`, el del mentor.
+- [[vacios-de-informacion]]: lista mínima de métricas para registrar por proyecto.
+
+### Conexiones inesperadas
+1. **La regla de foco del mentor y tu cartera chocan de frente:** "una sola oferta hasta 1.000–2.000 USD/día; recién ahí se abre una segunda". Tienes 11 proyectos abiertos. La memoria no dice que ninguno haya pasado ese umbral. Es la tensión estratégica más grande que muestra el cerebro hasta ahora.
+2. **El "precio 27 USD + 3 bonos" de tu plantilla tiene ahora un test directo:** la palanca 3 de [[optimizacion-de-roas]] (subir el ticket, ej. 9,99 → 14,99) y la 5 (backend obligatorio). Ninguno de tus proyectos con precio fijo tiene upsell definido, y eso, según el mentor, es lo único no negociable.
+3. **La jerarquía "mercado → anuncios → funnel → producto" invierte la tuya.** En tu memoria, la mayor parte del esfuerzo va a la landing, las imágenes y el nombre del producto (pasos 3–4). El mentor dice que el producto es lo que menos pesa y que el mercado (urgencia de compra) es lo que más.
+4. **Las ofertas caducan a los 3–4 meses.** Si los 11 proyectos se trabajaron a lo largo de 2026, parte de las referencias que modelaste (cocinaresueltaok, bebecomilao, mynerdyteacher) puede estar ya fuera de ciclo. Antes de invertir más, conviene revisar en la Biblioteca de Anuncios si siguen activas ([[funnel-hacking]]).
+5. **El CPA break-even de Come y Baja se puede calcular ya** con el ejemplo del mentor (ARS → USD con el tipo de cambio del día, menos comisiones). Es el primer número que debería tener cada proyecto.
+
+---
+
 ## 2026-10-15 — Internacionalización, investigación, lectura de resultados, LLC, mentalidad
 ### Qué cambió
 - Nuevas páginas: [[internacionalizacion]], [[investigacion-de-mercado]], [[lectura-de-resultados]], [[llc-banca-y-fiscal]], [[mentalidad-y-habitos]]. Van 24 de las 46 del wiki anterior.

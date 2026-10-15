@@ -104,7 +104,7 @@ Existe una clase en el canal sobre **traducir una tienda de Shopify por completo
 
 ### Cómo encaja con la caducidad de las ofertas
 
-Las ofertas mueren a los 3–4 meses ([[modelo-de-negocio]]). Replicarlas en mercados nuevos es la forma más barata de **extender la vida de una oferta ya validada** antes de tener que buscar otra: el trabajo duro —comunicación, funnel, creativos— ya está hecho y pagado.
+Las ofertas mueren a los 3–4 meses ([[modelo-low-ticket]]). Replicarlas en mercados nuevos es la forma más barata de **extender la vida de una oferta ya validada** antes de tener que buscar otra: el trabajo duro —comunicación, funnel, creativos— ya está hecho y pagado.
 
 ## Densidad poblacional: el criterio que decide el techo
 
@@ -232,4 +232,4 @@ La internacionalización funciona también en sentido inverso: **Brasil y Estado
 - **Doblaje barato:** aislar el audio sobre un **video negro** y traducirlo con HeyGen. Sale mucho más barato que el doblaje dedicado de ElevenLabs.
 - **Escala por región:** targetear región completa (Norteamérica, Sudamérica, Centroamérica y Caribe, Europa) con el resto abierto. Después cruzar el **revenue por sesión por país** (lifetime, desde la tienda) con el **costo por visita desglosado por país** en Ads Manager, y quedarse solo con los países donde el revenue por sesión supera al costo por visita.
 
-Relacionado: [[modelo-de-negocio]] · [[shopify-y-checkout]] · [[metricas-y-kpis]]
+Relacionado: [[modelo-low-ticket]] · [[shopify-y-checkout]] · [[metricas-y-kpis]]

@@ -22,7 +22,7 @@ Expectativa que conviene tener antes de frustrarse:
 
 > «De **seis ofertas validadas** —es decir, que ya están en profit— **solo una va a escalar agresivo**, la que vas a poder llevar a números tipo 11.000 de revenue en un día.»
 
-**Validar ≠ escalar.** Una oferta puede ser rentable y aun así tener techo. Es otra razón para mantener el flujo constante de ofertas nuevas ([[modelo-de-negocio]]).
+**Validar ≠ escalar.** Una oferta puede ser rentable y aun así tener techo. Es otra razón para mantener el flujo constante de ofertas nuevas ([[modelo-low-ticket]]).
 
 ## Escala vertical
 
@@ -317,7 +317,7 @@ Distinción que ordena las prioridades según el objetivo:
 
 > Para escalar **una oferta** a cinco o seis cifras al día, **no tenés que sacar más ofertas: tenés que sacar más anuncios para esa oferta**.
 
-- **Más ofertas** → crecimiento horizontal, cubre la caducidad ([[modelo-de-negocio]])
+- **Más ofertas** → crecimiento horizontal, cubre la caducidad ([[modelo-low-ticket]])
 - **Más anuncios sobre la que ya vuela** → escala vertical real
 
 ## Delegar para poder escalar

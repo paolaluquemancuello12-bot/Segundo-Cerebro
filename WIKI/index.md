@@ -37,6 +37,11 @@ _Última construcción: 2026-10-15 · Fuentes: `RAW/2026-10-15-negocio.md`, `RAW
 - [[lectura-de-resultados]] — Si no hay ganancia, casi nunca es el anuncio: el orden para diagnosticar con datos reales.
 - [[llc-banca-y-fiscal]] — LLC en EE. UU., ITIN, Mercury/Relay, diversificar fondos, cripto e impuestos.
 - [[mentalidad-y-habitos]] — Visión a 5 años, responsabilidad total, metas por escrito.
+- [[metodo-v3]] — **La estructura base:** una CBO por oferta y cuenta, un conjunto por tanda, renovaciones en la misma campaña.
+- [[metricas-y-kpis]] — Costo por visita vs. revenue por visita; KPIs de anuncio y de conversión; CPA break-even.
+- [[modelo-low-ticket]] — El modelo del mentor: mercado → anuncios → funnel → producto, las ofertas caducan a los 3–4 meses.
+- [[nomenclatura-del-metodo]] — Cómo nombrar campañas, conjuntos, anuncios, pujas y UTMs.
+- [[optimizacion-de-roas]] — 6 palancas para sacar un funnel de break-even; el backend es obligatorio.
 - [[vacios-de-informacion]] — Qué falta saber (3 gaps principales).
 
 ## Proyectos

@@ -6,7 +6,7 @@ fuentes: [RAW/wiki-externo/funnel-de-whatsapp.md, RAW/youtube/el-nuevo-objetivo-
 
 # Funnel de WhatsApp
 
-Variante de venta directa sin landing: el anuncio no lleva a una web, **lleva a una conversación de WhatsApp uno a uno** donde se cierra la venta a mano. Mismos productos que en [[modelo-de-negocio]].
+Variante de venta directa sin landing: el anuncio no lleva a una web, **lleva a una conversación de WhatsApp uno a uno** donde se cierra la venta a mano. Mismos productos que en [[modelo-low-ticket]].
 
 ```
 Anuncio (campaña de interacción) → WhatsApp Business 1-a-1 → cierre por mensajes → cobro
@@ -95,4 +95,4 @@ Se puede validar una oferta con campañas de mensajes igual que con landing. El 
 
 - **La matemática es la misma cambiando «visita» por «conversación».** Costo por conversación 0,30 USD × 100 USD de inversión = ~333 conversaciones. Con un 10% de conversión a venta salen ~33 ventas. El precio mínimo para break-even sale de dividir el ingreso que querés recuperar por esas ventas.
 
-Relacionado: [[modelo-de-negocio]] · [[aumento-de-aov]] · [[escalado-en-meta-ads]] · [[funnel-hacking]]
+Relacionado: [[modelo-low-ticket]] · [[aumento-de-aov]] · [[escalado-en-meta-ads]] · [[funnel-hacking]]

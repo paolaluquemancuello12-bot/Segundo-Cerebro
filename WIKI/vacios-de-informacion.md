@@ -2,6 +2,8 @@
 
 _Fuente: `RAW/2026-10-15-negocio.md`_
 
+Qué métricas registrar por proyecto (mínimo): gasto, ventas, CPA vs. CPA break-even, comprate, visita → checkout, AOV / front → [[metricas-y-kpis]].
+
 Para cuando haya métricas: el orden de diagnóstico está en [[lectura-de-resultados]].
 
 ## Los 3 mayores gaps
@@ -19,8 +21,8 @@ Para cuando haya métricas: el orden de diagnóstico está en [[lectura-de-resul
 - Cifra real de ahorro para [[proyecto-panes-turcos]].
 - Nombre del usuario: no registrado ("Santiago Bilbao" es, probablemente, el mentor) → [[perfil-y-forma-de-trabajo]].
 
-## Páginas referenciadas que todavía no existen (22)
+## Páginas referenciadas que todavía no existen (17)
 Páginas de tu wiki anterior (según `RAW/wiki-externo/_index-anterior.md` y los enlaces de las ya importadas) que todavía no están aquí:
-[[metodo-v3]] · [[metricas-y-kpis]] · [[modelo-low-ticket]] · [[nomenclatura-del-metodo]] · [[optimizacion-de-roas]] · [[organizacion-y-registro]] · [[pagina-de-ventas]] · [[problemas-de-cuentas-meta]] · [[procesadores-de-pago]] · [[psicologia-del-comprador]] · [[quiz-funnel]] · [[renovacion-de-creativos]] · [[segmentos-de-mercado]] · [[seleccion-y-modelado-de-oferta]] · [[setup-de-campanas]] · [[shopify-y-checkout]] · [[stack-de-herramientas]] · [[subir-ads-con-metodo-catalogo]] · [[testeo-de-creativos]] · [[tracking-y-atribucion]] · [[ugc-y-video-generativo]] · [[validacion-de-oferta]]
+[[organizacion-y-registro]] · [[pagina-de-ventas]] · [[problemas-de-cuentas-meta]] · [[procesadores-de-pago]] · [[psicologia-del-comprador]] · [[quiz-funnel]] · [[renovacion-de-creativos]] · [[segmentos-de-mercado]] · [[seleccion-y-modelado-de-oferta]] · [[setup-de-campanas]] · [[shopify-y-checkout]] · [[stack-de-herramientas]] · [[subir-ads-con-metodo-catalogo]] · [[testeo-de-creativos]] · [[tracking-y-atribucion]] · [[ugc-y-video-generativo]] · [[validacion-de-oferta]]
 
 También citan fuentes que no están en este RAW: `RAW/formacion/…`, `RAW/youtube/…` y `RAW/contexto-chatgpt.md`.

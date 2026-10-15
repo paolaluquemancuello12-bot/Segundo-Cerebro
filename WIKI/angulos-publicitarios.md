@@ -100,7 +100,7 @@ El ángulo no solo cambia la entrada: puede cambiar **a quién le vendes el mism
 | Profesional | **Estilistas** | Manejá bien este problema y **aumentá tu clientela** |
 | Consumidor final | Mujeres a las que se les cae el pelo | Cuidá tu pelo **en casa** |
 
-Mismo PDF, dos ofertas, dos mercados, dos landings. Es la forma más barata de multiplicar una oferta ya validada — y encaja con que las ofertas caducan a los 3–4 meses ([[modelo-de-negocio]]).
+Mismo PDF, dos ofertas, dos mercados, dos landings. Es la forma más barata de multiplicar una oferta ya validada — y encaja con que las ofertas caducan a los 3–4 meses ([[modelo-low-ticket]]).
 
 Ambos ángulos, además, caen en big niches distintos: el primero en **dinero** («gana dinero con tu oficio»), el segundo en **salud**. Ver [[segmentos-de-mercado]].
 

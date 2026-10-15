@@ -240,4 +240,4 @@ Si los entregables son solo texto o PDF, **no se prometen videocursos** en el bu
 
 Flujo completo con VSL: [[embudo-vsl-post-pago]] · Remonetización por email: [[email-y-automatizaciones]]
 
-Relacionado: [[modelo-de-negocio]] · [[metricas-y-kpis]] · [[shopify-y-checkout]] · [[validacion-de-oferta]]
+Relacionado: [[modelo-low-ticket]] · [[metricas-y-kpis]] · [[shopify-y-checkout]] · [[validacion-de-oferta]]

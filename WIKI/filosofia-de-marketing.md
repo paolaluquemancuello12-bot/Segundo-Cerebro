@@ -66,4 +66,4 @@ La frase que resume la vara: **«Quiero guiones asesinos de verdad.»**
 
 > Encontrar una oferta con demanda → construir una oferta irresistible → crear creativos → testear en Meta → encontrar ganadores → optimizar funnel → aumentar AOV → escalar adquisición → expandirse internacionalmente → repetir.
 
-Relacionado: [[seleccion-y-modelado-de-oferta]] · [[hooks]] · [[modelo-de-negocio]]
+Relacionado: [[seleccion-y-modelado-de-oferta]] · [[hooks]] · [[modelo-low-ticket]]

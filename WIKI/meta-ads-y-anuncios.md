@@ -36,6 +36,8 @@ Relacionado: [[videos-y-voces]], [[diseno-y-creatividades]].
 
 Guiones y hooks: [[guiones-de-video-ads]] · [[hooks]]
 
+Estructura base de campañas: [[metodo-v3]] · Nombres y UTMs: [[nomenclatura-del-metodo]]
+
 Escala y estructuras: [[escalado-en-meta-ads]] · [[estructuras-cbo]]
 
 Ver también: [[angulos-publicitarios]] · [[claude-con-meta-ads]] · [[contingencia-de-cuentas]] · [[biblioteca-de-prompts]]

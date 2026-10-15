@@ -18,7 +18,7 @@ Dos afirmaciones que parecen contradecirse y no lo hacen:
 
 > «El producto que entregues tiene que ser **lo mejor que la persona puede recibir en su casilla de correo**. Tiene que sentirse feliz de haber puesto sus 15, 19 o 29 dólares.»
 
-**El producto no adquiere clientes: los retiene.** No mueve la aguja del CPA, pero sí la de recompra, recomendación y backend ([[modelo-de-negocio]]).
+**El producto no adquiere clientes: los retiene.** No mueve la aguja del CPA, pero sí la de recompra, recomendación y backend ([[modelo-low-ticket]]).
 
 **El error correspondiente:** tardar un mes creando el PDF antes de saber si la oferta vende. Ver el flujo MVP de [[validacion-de-oferta]].
 

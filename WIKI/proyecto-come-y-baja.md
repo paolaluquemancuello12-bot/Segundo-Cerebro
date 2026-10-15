@@ -16,6 +16,8 @@ Comparar con el quiz del mentor (~16 preguntas, analítica por etapa): [[quiz-fu
 - Al cambiar de país cambian moneda, precio, idioma, imágenes, platos típicos y referencias ([[localizacion]]).
 - ⚠️ **Bug en Lovable:** no personalizaba bien las imágenes de platos por país.
 
+> **Según el mentor:** 19.999 ARS coincide con su escalera de precio para Argentina (probar a 15.000 → subir a 19.000), y cobrar en pesos vende más que cobrar en dólares. Para el upsell post-pago desde Argentina, la vía es Impultienda ([[shopify-y-checkout]]). Para leer resultados por país, no te fíes del desglose de UTMify ([[tracking-y-atribucion]]).
+
 ## Comunicación
 Organización, ahorro de tiempo, comida rica, menos improvisación, menos gasto, rutina sostenible. Tema de salud: cuidado con las promesas ([[copy-y-promesas]]).
 

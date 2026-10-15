@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-10-15 — Shopify/checkout, stack, catálogo, testeo, tracking
+### Qué cambió
+- Nuevas páginas: [[shopify-y-checkout]], [[stack-de-herramientas]], [[subir-ads-con-metodo-catalogo]], [[testeo-de-creativos]], [[tracking-y-atribucion]]. **Van 44 de las 46.** Faltan [[ugc-y-video-generativo]] y [[validacion-de-oferta]].
+- Come y Baja: nota con el precio, el checkout y el tracking según el mentor.
+- La página de checkout ya trae su propia nota sobre el conflicto de interés (Impultienda la creó un alumno del mentor y él reparte un código de referido).
+
+### Conexiones inesperadas
+1. **El precio de Come y Baja ya es el "punto alto" del mentor:** 19.999 ARS es justo el escalón final de su escalera (15.000 → 19.000). Y su regla "en Argentina, cobrar en pesos, no en dólares" confirma que la decisión de precio fue correcta.
+2. **Impultienda resuelve el bloqueo que venía apareciendo desde [[aumento-de-aov]]:** el post-pago desde Argentina, que Shopify con Mercado Pago no permite. Para Come y Baja es la vía al backend sin pasar a WhatsApp.
+3. **"Mínimo 20 anuncios antes de abandonar una oferta"** da un criterio para tus 11 proyectos: ¿alguno llegó a 20 anuncios testeados? Si no, ninguno está realmente descartado ni validado.
+4. **El cuestionario de Come y Baja necesita tracking especial:** en el montaje quiz + checkout externo, el error más común es perder las UTMs en el quiz ([[tracking-y-atribucion]]). Si se hizo en Lovable, hay que revisar que el capturador de UTMs esté instalado.
+5. **"Un dashboard, un pixel, una tienda, un producto."** Con 11 proyectos, eso son hasta 11 tiendas y 11 dashboards. Otra razón práctica para concentrarte en pocas ofertas.
+
+---
+
 ## 2026-10-15 — Quiz, renovación, segmentos, modelado de oferta, setup
 ### Qué cambió
 - Nuevas páginas: [[quiz-funnel]], [[renovacion-de-creativos]], [[segmentos-de-mercado]], [[seleccion-y-modelado-de-oferta]], [[setup-de-campanas]]. Van 39 de las 46.

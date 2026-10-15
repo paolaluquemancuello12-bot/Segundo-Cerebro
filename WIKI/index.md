@@ -52,6 +52,11 @@ _Última construcción: 2026-10-15 · Fuentes: `RAW/2026-10-15-negocio.md`, `RAW
 - [[segmentos-de-mercado]] — Salud, dinero y relaciones: urgencia de compra; matriz nicho × mercado.
 - [[seleccion-y-modelado-de-oferta]] — Modelar ≠ clonar; nunca modelar en el mismo mercado; bundle Nx1 y bonus.
 - [[setup-de-campanas]] — Campaña de testeo ABO paso a paso, calentar cuentas nuevas, columna de valor promedio.
+- [[shopify-y-checkout]] — **Impultienda es la plataforma actual**; Shopify y Hotmart como referencia; moneda local y precio psicológico.
+- [[stack-de-herramientas]] — Inventario completo, marcado entre en uso y evaluado.
+- [[subir-ads-con-metodo-catalogo]] — Anuncios de catálogo en video único dentro de la V3, con datos reales.
+- [[testeo-de-creativos]] — Pre-testeo y testeo, CPA medio = ticket ÷ 2, mínimo 20 anuncios, el cambio post-Andrómeda.
+- [[tracking-y-atribucion]] — UTMify, un dashboard por oferta, pixel recategorizado, el país de UTMify no es confiable.
 - [[vacios-de-informacion]] — Qué falta saber (3 gaps principales).
 
 ## Proyectos

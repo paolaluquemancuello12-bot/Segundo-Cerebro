@@ -1,5 +1,19 @@
 # Changelog
 
+## 2026-10-15 — UGC y validación: importación del wiki anterior completa
+### Qué cambió
+- Nuevas páginas: [[ugc-y-video-generativo]], [[validacion-de-oferta]]. **46 de 46: el wiki anterior está completo** y no quedan enlaces rotos.
+- [[vacios-de-informacion]] actualizado: ya no hay páginas pendientes; siguen los vacíos de datos propios (métricas, objetivos, equipo).
+
+### Conexiones inesperadas
+1. **Tu proceso va al revés del MVP del mentor.** Él valida con landing simple + entregable mínimo y **después** construye el producto bueno. En tus proyectos, la memoria describe mucho trabajo previo en landing, logos, portadas, mockups, bonos y upsells antes de tener datos de venta. Según [[validacion-de-oferta]], "el error de la mayoría es crear el productazo antes de validarlo".
+2. **Con su regla de 100 USD por oferta, validar tus 11 proyectos costaría ~1.100 USD.** Es el precio de saber cuál sirve. Hoy no hay registro de que ninguno haya pasado por ese test.
+3. **El caso de 109K repite tu patrón de mercados:** 3 ofertas encontradas → cambio de mercado (Brasil → inglés, otra → LatAm). Es lo que hiciste con Baby's First Bites. La diferencia está en los pasos 4–7: validar el primer día, pausar, construir y escalar.
+4. **Las reglas de UGC del mentor coinciden con tus preferencias de la memoria:** sin texto sobreimpreso innecesario, subtítulos aparte en CapCut, voz natural del país. Tu exigencia de "voz alemana suiza distinta de la alemana" (Aroma Stones) es la misma regla de [[internacionalizacion]]: localizar, no traducir.
+5. **Contradicción interna del mentor, para el health check:** [[validacion-de-oferta]] dice "si con 100 USD no hay venta, cambiá de oferta", y [[testeo-de-creativos]] dice "mínimo 20 anuncios antes de abandonar". Con 5 USD por anuncio, 20 anuncios son 100 USD solo si cada uno gasta 5. Encajan solo con testeo a micropresupuesto.
+
+---
+
 ## 2026-10-15 — Shopify/checkout, stack, catálogo, testeo, tracking
 ### Qué cambió
 - Nuevas páginas: [[shopify-y-checkout]], [[stack-de-herramientas]], [[subir-ads-con-metodo-catalogo]], [[testeo-de-creativos]], [[tracking-y-atribucion]]. **Van 44 de las 46.** Faltan [[ugc-y-video-generativo]] y [[validacion-de-oferta]].

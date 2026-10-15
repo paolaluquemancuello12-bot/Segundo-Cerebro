@@ -21,8 +21,8 @@ Para cuando haya métricas: el orden de diagnóstico está en [[lectura-de-resul
 - Cifra real de ahorro para [[proyecto-panes-turcos]].
 - Nombre del usuario: no registrado ("Santiago Bilbao" es, probablemente, el mentor) → [[perfil-y-forma-de-trabajo]].
 
-## Páginas referenciadas que todavía no existen (2)
-Páginas de tu wiki anterior (según `RAW/wiki-externo/_index-anterior.md` y los enlaces de las ya importadas) que todavía no están aquí:
-[[ugc-y-video-generativo]] · [[validacion-de-oferta]]
+## Wiki anterior: importación completa
+Las 46 páginas de `RAW/wiki-externo/_index-anterior.md` ya están en el wiki y no hay enlaces rotos.
+
 
 También citan fuentes que no están en este RAW: `RAW/formacion/…`, `RAW/youtube/…` y `RAW/contexto-chatgpt.md`.

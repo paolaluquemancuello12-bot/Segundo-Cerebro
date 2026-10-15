@@ -60,7 +60,7 @@ Ver [[pagina-de-ventas]].
 | Voz | ElevenLabs |
 | Edición | CapCut (aquí se añaden los subtítulos, nunca en el prompt) |
 
-Ver [[videos-y-voces]] · [[imagenes-y-mockups]].
+Ver [[ugc-y-video-generativo]] · [[imagenes-y-mockups]].
 
 ## Investigación
 

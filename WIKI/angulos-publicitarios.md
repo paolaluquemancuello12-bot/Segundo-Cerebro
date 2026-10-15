@@ -83,7 +83,7 @@ Formatos que hay que rotar:
 
 Y el argumento de fondo: **distintas personas compran con distintos formatos**. Alguien que no compraría con un video en voz en off compra con un carrusel.
 
-Ver [[videos-y-voces]] y [[renovacion-de-creativos]].
+Ver [[ugc-y-video-generativo]] y [[renovacion-de-creativos]].
 
 ## Olvidate de los intereses
 

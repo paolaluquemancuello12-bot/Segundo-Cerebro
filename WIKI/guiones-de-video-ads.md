@@ -75,7 +75,7 @@ Orden fijo que sigue Santiago:
 2. **Prompt Cowboy** para afinar el prompt (hay dos lecciones dedicadas a Prompt Cowboy + Claude)
 3. Claude / ChatGPT genera el arsenal
 4. Variación sobre ganadores con `prompt-variacion-de-guiones-winners` (guion winner + sales page → variantes masivas)
-5. Producción visual: [[videos-y-voces]]
+5. Producción visual: [[ugc-y-video-generativo]]
 
 ## Complementos prácticos
 
@@ -108,4 +108,4 @@ Primero se le pide a la IA que diagnostique **por qué funciona**: estructura, h
 - Con un guion que vendió: **pedir 10 variaciones que toquen los mismos dolores** y probarlas con B-rolls distintos. El mismo guion con otro fondo puede conectar con otro segmento.
 - **Prompt Cowboy por target:** con el copy de la landing se arma el meta-prompt una sola vez, y en Claude se piden guiones para distintos públicos del mismo nicho (ej. amas de casa, después emprendedoras) sin reescribir el contexto.
 
-Relacionado: [[hooks]] · [[angulos-publicitarios]] · [[testeo-de-creativos]] · [[biblioteca-de-prompts]] · [[videos-y-voces]]
+Relacionado: [[hooks]] · [[angulos-publicitarios]] · [[testeo-de-creativos]] · [[biblioteca-de-prompts]] · [[ugc-y-video-generativo]]

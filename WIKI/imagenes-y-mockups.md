@@ -122,4 +122,4 @@ Otras: Midjourney v6 · DALL-E 3 · Higgsfield · Grok (B-roll) · Canva (landin
 - **Meta tiene generación de imágenes nativa** en el editor de anuncios, con variantes automáticas a partir de una imagen subida.
 - **Testimonios y capturas para la landing:** el prompt de imagen no se escribe a mano. Se le pide a ChatGPT o Claude («comentario de Facebook», «captura de chat de WhatsApp», «fondo de landing de alto valor percibido»).
 
-Relacionado: [[pagina-de-ventas]] · [[creacion-de-productos-digitales]] · [[videos-y-voces]] · [[biblioteca-de-prompts]]
+Relacionado: [[pagina-de-ventas]] · [[creacion-de-productos-digitales]] · [[ugc-y-video-generativo]] · [[biblioteca-de-prompts]]

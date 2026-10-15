@@ -166,4 +166,4 @@ El upsell post-pago exige **checkout en dólares** — Shopify Payments, Stripe 
 - Configuración: nombre y persona de experto, descripción corta, instrucciones, mensaje de ejemplo, **PDFs del producto como «Conocimiento»**, **generación de imágenes desactivada** e imagen de perfil hecha con IA.
 - Entrega: el link va como **botón «Soporte 1 a 1» dentro del PDF**. Funciona aunque el comprador use ChatGPT gratis.
 
-Relacionado: [[aumento-de-aov]] · [[guiones-de-video-ads]] · [[videos-y-voces]] · [[biblioteca-de-prompts]]
+Relacionado: [[aumento-de-aov]] · [[guiones-de-video-ads]] · [[ugc-y-video-generativo]] · [[biblioteca-de-prompts]]

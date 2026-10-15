@@ -13,3 +13,4 @@ Traducir guiones, adaptar subtítulos, elegir y reemplazar voces, ajustar textos
 Relacionado: [[meta-ads-y-anuncios]], [[localizacion]], [[diseno-y-creatividades]].
 
 Guiones: [[guiones-de-video-ads]] · Hooks: [[hooks]].
+Método del mentor para UGC y avatares: [[ugc-y-video-generativo]].

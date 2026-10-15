@@ -63,7 +63,7 @@ Con eso la misma página se sirve en el otro idioma. Y funciona igual para el **
 - Si la landing es **con código**, se le pide a la IA que la traduzca — trivial. Otra ventaja del código sobre las imágenes ([[pagina-de-ventas]])
 
 **5. Los anuncios**
-Traducir el guion con ChatGPT → generar la voz en **ElevenLabs** o Google Studio. Ver [[videos-y-voces]].
+Traducir el guion con ChatGPT → generar la voz en **ElevenLabs** o Google Studio. Ver [[ugc-y-video-generativo]].
 
 **6. Opcional, y él no lo hace**
 Dominio en inglés y fanpage en inglés. Si querés lanzar rápido, no hace falta.
@@ -194,7 +194,7 @@ El principio está declarado sin ambigüedad: no se traducen anuncios. Se adapta
 | LatAm | Español latino neutro |
 | EE.UU., Reino Unido, Canadá, Australia, NZ | Inglés |
 
-El avatar también cambia por mercado, no solo el idioma. Ver [[videos-y-voces]].
+El avatar también cambia por mercado, no solo el idioma. Ver [[ugc-y-video-generativo]].
 
 ## Implicaciones técnicas
 

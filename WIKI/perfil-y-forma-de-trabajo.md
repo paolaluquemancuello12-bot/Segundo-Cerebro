@@ -7,6 +7,11 @@ _Fuente: `RAW/2026-10-15-negocio.md`_ (§1, §11)
 - Nombre no confirmado (en algunos documentos aparece "Santiago Bilbao", sin verificar). Edad no registrada. Hubo conversaciones sobre estudios de matemática, sin confirmar.
 - Orientación internacional: inglés (EE. UU., CA, AU, UK), portugués (BR/PT), francés, italiano, alemán, alemán suizo, polaco, coreano, turco → ver [[localizacion]].
 
+## Mentor
+- **Santiago es su mentor** (confirmado por el usuario el 2026-10-15). Las lecciones, los prompts y los casos que se citan en el wiki como "Santiago dice…" son **su método de referencia**, no datos del negocio propio del usuario.
+- Es probable que el "Santiago Bilbao" que aparece en los documentos sea el mentor.
+- Cuando se mezclen, distinguir: **qué recomienda Santiago** vs. **qué decidió o midió el usuario** en sus proyectos.
+
 ## Cómo trabaja
 - **Muy iterativo:** parte de una referencia existente → primera versión → correcciones hasta que convence.
 - Prioriza el impacto comercial y el primer impacto (hero, hook) → ver [[copy-y-promesas]], [[landing-pages]].

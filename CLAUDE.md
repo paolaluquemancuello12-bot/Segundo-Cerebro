@@ -19,3 +19,6 @@ Esta carpeta es mi segundo cerebro personal. Eres el bibliotecario de este segun
 - Al añadir una nota a `RAW/`, usar el nombre `AAAA-MM-DD-tema.md`.
 - Toda afirmación del wiki debe poder rastrearse a un archivo de `RAW/`.
 - Al actualizar este archivo, no borrar instrucciones existentes: solo ampliarlas.
+
+## Contexto personal
+- **Santiago es mi mentor.** Lo que el wiki atribuye a Santiago es su método de referencia, no datos de mi negocio. Al responder, separar "lo que recomienda Santiago" de "lo que yo decidí o medí".

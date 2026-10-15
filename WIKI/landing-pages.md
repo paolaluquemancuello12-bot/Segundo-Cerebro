@@ -18,6 +18,8 @@ Rechaza promesas genéricas, descriptivas, sin resultado concreto, sin dolor ni 
 - Páginas no muy largas; carruseles para contenido repetido; sin imágenes duplicadas.
 - Persuasiva sin saturar.
 
+Si hay muchos inicios de checkout y pocas compras → [[diagnostico-de-checkout]].
+
 ## Patrones especiales
 - **Cuestionario inicial** (país, género, edad, peso, altura) → resultado → oferta ([[proyecto-come-y-baja]]).
 - Las fotos impactan directamente en las ventas, sobre todo en gastronomía → [[diseno-y-creatividades]].

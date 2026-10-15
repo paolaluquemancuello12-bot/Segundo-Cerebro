@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-10-15 — 5 páginas más + Santiago = mentor
+### Qué cambió
+- Nuevas páginas: [[creacion-de-productos-digitales]], [[diagnostico-de-checkout]], [[disputas-y-reembolsos]], [[email-y-automatizaciones]], [[embudo-vsl-post-pago]] (originales en `RAW/wiki-externo/`).
+- **Santiago es el mentor** (confirmado por el usuario): actualizado en perfil, vacíos y `CLAUDE.md` (nueva sección "Contexto personal").
+- Nota del bibliotecario en el embudo VSL: la ruleta "arreglada" y la barra de progreso ficticia son técnicas engañosas.
+- Lista de páginas pendientes regenerada.
+
+### Conexiones inesperadas
+1. **El ejemplo de OTO de Santiago es tu propio catálogo.** "Vendiste un recetario → el OTO 1 es un curso de cómo cocinar esas recetas". Sirve directamente para Salad Dressing Bible, Baby's First Bites, panes turcos y Come y Baja: cuatro de tus once proyectos son recetarios sin upsell definido.
+2. **Aroma Stones está en el nicho más fácil de upsellear.** Según el embudo VSL, "ingreso extra" siempre tiene un problema siguiente (vender, marketing). Esto refuerza la conexión con el proyecto K (finanzas del pequeño negocio) como OTO.
+3. **Tus precios coinciden con los del mentor:** 27 USD en inglés es exactamente el front de su embudo en inglés. En cambio, los 19.999 ARS de Come y Baja necesitan otra vía, porque el post-pago no funciona en pesos (Impultienda).
+4. **La regla "WhatsApp en LatAm, email en inglés"** encaja con tu cartera dividida: Come y Baja → WhatsApp; Salad, Baby, Macramé y Yesero → email/SMS.
+5. **Lo engañoso termina en contracargos.** Las técnicas marcadas con ⚠️ (testimonios falsos, ruleta arreglada, escasez inventada) son las que más disputas generan, y el límite de contracargos es ~1%. Tus notas ya contienen el argumento en contra.
+
+---
+
 ## 2026-10-15 — Prompts y páginas importadas
 **Procesado:** `RAW/prompts/` (23 prompts + índice) y `RAW/wiki-externo/` (5 páginas de un wiki anterior).
 

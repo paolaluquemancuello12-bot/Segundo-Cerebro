@@ -238,4 +238,6 @@ Si los entregables son solo texto o PDF, **no se prometen videocursos** en el bu
 - Crear un «funnel» nuevo disparado por el producto principal. En cada oferta: headline y subheadline, **timer con el nombre del cliente** y minutos de reserva, imagen o carrusel, botones aceptar/rechazar y texto de garantía.
 - Para no perder conversión con el checkout en USD, sumar una app de conversión visual (ej. **Currency Converter Plus**). El visitante sigue viendo su moneda en landing y carrito aunque el checkout cobre en dólares.
 
+Flujo completo con VSL: [[embudo-vsl-post-pago]] · Remonetización por email: [[email-y-automatizaciones]]
+
 Relacionado: [[modelo-de-negocio]] · [[metricas-y-kpis]] · [[shopify-y-checkout]] · [[validacion-de-oferta]]

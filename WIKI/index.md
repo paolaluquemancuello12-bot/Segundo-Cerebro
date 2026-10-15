@@ -18,6 +18,11 @@ _Última construcción: 2026-10-15 · Fuentes: `RAW/2026-10-15-negocio.md`, `RAW
 - [[biblioteca-de-prompts]] — Los 23 prompts por etapa, con advertencias de riesgo.
 - [[claude-con-meta-ads]] — Conector de Meta Ads en Claude: qué hace, qué no y trampas (estado PAUSED falso).
 - [[contingencia-de-cuentas]] — Perfiles de backup, BMs y cuentas publicitarias ante bloqueos.
+- [[creacion-de-productos-digitales]] — Ebooks rápidos para validar (Gamma), y de calidad tras validar (Claude + Higgsfield).
+- [[diagnostico-de-checkout]] — Muchos inicios de checkout y pocas compras: 9 causas por orden de impacto.
+- [[disputas-y-reembolsos]] — Contracargos < 1%, términos y condiciones, Stripe, disputas con Claude Code.
+- [[email-y-automatizaciones]] — Carritos abandonados (Sendvio, 6 emails), Flodesk, WhatsApp vs. email por mercado.
+- [[embudo-vsl-post-pago]] — 3–4 OTOs con VSL de avatar, downsells, precios EN/ES, GPT como soporte 1-a-1.
 - [[vacios-de-informacion]] — Qué falta saber (3 gaps principales).
 
 ## Proyectos

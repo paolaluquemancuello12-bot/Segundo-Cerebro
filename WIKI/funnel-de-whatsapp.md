@@ -77,7 +77,7 @@ Se upsellea igual que en el funnel web, solo que por conversación. Ver [[aument
 
 Ese caso trae además una observación que Santiago subraya: la creencia popular de que «las campañas de mensajes no escalan» es lo que frena a la mayoría, y es falsa.
 
-> ⚠️ **Nota del bibliotecario:** "100% profit" no descuenta impuestos. Además, cobrar con una **cuenta bancaria prestada** de un tercero tiene riesgo fiscal y legal (el ingreso queda a nombre de otra persona) que el material no evalúa. Ver [[llc-banca-y-fiscal]] cuando esté disponible.
+> ⚠️ **Nota del bibliotecario:** "100% profit" no descuenta impuestos. Además, cobrar con una **cuenta bancaria prestada** de un tercero tiene riesgo fiscal y legal (el ingreso queda a nombre de otra persona) que el material no evalúa. Ver [[llc-banca-y-fiscal]].
 
 ## Herramientas
 

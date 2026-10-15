@@ -16,5 +16,7 @@ Traducir no alcanza: el producto tiene que **parecer creado para ese país**.
 - [ ] Voz nativa adecuada ([[videos-y-voces]])
 - [ ] Argumentos comerciales, cuando corresponda
 
+Método del mentor para replicar ofertas por mercado: [[internacionalizacion]].
+
 ## Mercados con los que trabaja
 EE. UU., Canadá, Australia, Reino Unido · Argentina, Chile, Colombia, Perú, Paraguay, México · Brasil, Portugal · Francia, Italia, Alemania, Suiza, Polonia · Corea del Sur · Turquía.

@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-10-15 — Internacionalización, investigación, lectura de resultados, LLC, mentalidad
+### Qué cambió
+- Nuevas páginas: [[internacionalizacion]], [[investigacion-de-mercado]], [[lectura-de-resultados]], [[llc-banca-y-fiscal]], [[mentalidad-y-habitos]]. Van 24 de las 46 del wiki anterior.
+- Enlaces desde localización y vacíos. La nota de WhatsApp ya apunta a la página fiscal.
+- Las páginas fiscal y de mentalidad ya traían sus propias notas (no es asesoramiento fiscal; Hawking → Hawkins).
+
+### Conexiones inesperadas
+1. **Tu cartera ya sigue la estrategia de "una oferta, muchos mercados", pero al revés.** El mentor replica **una** oferta validada en varios mercados. Tú tienes **once** ofertas distintas, cada una en uno o dos mercados. Aroma Stones (11 mercados) es la única que se parece a su método. Pregunta clave: ¿está validada en alguno?
+2. **Panes turcos sale de nuevo, ahora con la respuesta del mentor:** los ~9 s de permanencia y el hero débil encajan con su diagnóstico de [[lectura-de-resultados]] ("casi nunca es el anuncio: es la landing"). La métrica que lo mide es cuántos de cada 100 visitantes pasan al pago (objetivo ≥12–15).
+3. **"No se recomienda empezar por el mercado en inglés"**, y 7 de tus 11 proyectos apuntan a EE. UU./UK/CA/AU. El orden del mentor es tu país → LatAm → inglés. Come y Baja es tu único proyecto LatAm, y también el único con el patrón "país primero".
+4. **Ya tienes la investigación de mercado de un proyecto:** "Herramientas para tu negocio" (proyecto K) tiene un documento de investigación profunda, que es el primer paso de la cadena de 4 documentos. Si lo subes a RAW, puede ser el primer producto con avatar, offer brief y creencias completos.
+5. **La regla de corte demasiado temprana de [[lectura-de-resultados]]** (matar 2 de cada 3 tests sanos) contradice los "cortes a 4 USD" de [[escalado-en-meta-ads]]. Son dos reglas del mentor de distintas épocas: la de septiembre de 2026 (≈2× el ticket) es la más reciente y está respaldada por datos.
+
+---
+
 ## 2026-10-15 — Guiones, hooks, IA, imágenes + índice anterior
 ### Qué cambió
 - Nuevas páginas: [[guiones-de-video-ads]], [[hooks]], [[ia-en-el-flujo-de-trabajo]], [[imagenes-y-mockups]].

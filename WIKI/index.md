@@ -32,6 +32,11 @@ _Última construcción: 2026-10-15 · Fuentes: `RAW/2026-10-15-negocio.md`, `RAW
 - [[hooks]] — Hook rate >50%, lo visual pesa más, el método de los «influencers quebrados».
 - [[ia-en-el-flujo-de-trabajo]] — Documentos como memoria, un proyecto por producto, Claude Code como centro de la operación.
 - [[imagenes-y-mockups]] — NO FLAT COVERS, prompts de mockup, mockups con fondo transparente para el checkout.
+- [[internacionalizacion]] — Misma oferta en varios mercados, Translate & Adapt, a qué países targetear, la decisión de moneda.
+- [[investigacion-de-mercado]] — La cadena de prompts que produce los 4 documentos (deep research, avatar, offer brief, creencias).
+- [[lectura-de-resultados]] — Si no hay ganancia, casi nunca es el anuncio: el orden para diagnosticar con datos reales.
+- [[llc-banca-y-fiscal]] — LLC en EE. UU., ITIN, Mercury/Relay, diversificar fondos, cripto e impuestos.
+- [[mentalidad-y-habitos]] — Visión a 5 años, responsabilidad total, metas por escrito.
 - [[vacios-de-informacion]] — Qué falta saber (3 gaps principales).
 
 ## Proyectos

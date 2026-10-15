@@ -328,7 +328,7 @@ Umbral que menciona: cuando ya llevás **10.000–50.000 USD de profit**, empiez
 
 > «Los anuncios son lo más importante, pero **lo operativo de la edición no lo es**. Si no, vas a estar esclavo todo el día editando videos.»
 
-Lo que **no** se delega es el nivel de arriba: **los guiones** y la dirección creativa. Ver [[meta-ads-y-anuncios]].
+Lo que **no** se delega es el nivel de arriba: **los guiones** y la dirección creativa. Ver [[guiones-de-video-ads]].
 
 Su propia cadencia declarada llegó a **2 ofertas al día** — sostenible solo con un equipo de 10+ personas.
 

@@ -21,3 +21,5 @@ Recuadros negros, texto blanco o resaltado, textos horizontales (no bloques alto
 Ejemplo de la mujer japonesa con muñecos: apariencia auténtica, piel realista, menos luz artificial, aspecto fotográfico → coherencia cultural ([[localizacion]]).
 
 Relacionado: [[landing-pages]], [[videos-y-voces]].
+
+Método del mentor para mockups e imágenes: [[imagenes-y-mockups]].

@@ -11,3 +11,5 @@ Traducir guiones, adaptar subtítulos, elegir y reemplazar voces, ajustar textos
 - [[proyecto-aroma-stones]]: voz femenina en Francia, Alemania y Polonia; reemplazo de voz en Corea; **alemán suizo distinto del alemán de Alemania**.
 
 Relacionado: [[meta-ads-y-anuncios]], [[localizacion]], [[diseno-y-creatividades]].
+
+Guiones: [[guiones-de-video-ads]] · Hooks: [[hooks]].

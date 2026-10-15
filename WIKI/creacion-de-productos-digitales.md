@@ -58,7 +58,7 @@ Instrucción útil del ejemplo: *«Ignora la portada, la introducción, los tips
 Se le pide a ChatGPT el prompt para Sora, se genera en **formato 2:3** (proporción de portada de libro) y se descarga.
 
 **4. Mockups de presentación.**
-Prompt pedido a ChatGPT para Sora, con especificación explícita: **mockup en formato libro + mockup en formato iPhone, en un entorno coherente con la temática** del producto. Salen las imágenes para la página de ventas. Ver [[diseno-y-creatividades]].
+Prompt pedido a ChatGPT para Sora, con especificación explícita: **mockup en formato libro + mockup en formato iPhone, en un entorno coherente con la temática** del producto. Salen las imágenes para la página de ventas. Ver [[imagenes-y-mockups]].
 
 **5. Montaje final en Gamma.**
 Se sube la portada como imagen del primer módulo (diseño de fondo → reemplazar imagen → efecto de superposición) y se añade una imagen a cada sección.
@@ -107,4 +107,4 @@ Es coherente con el resto del sistema: la ventaja no está en el producto, está
   - **Extensiones:** Guía Enfocada 20–30 págs · Ebook Completo 40–60 · Manual Definitivo 80+.
 - **Referencias de temario según el nicho:** Etsy (plantillas, patrones) y Domestika (cursos). Sirven para entender qué estructura espera el comprador. Adaptar, no copiar el contenido de otro.
 
-Relacionado: [[seleccion-y-modelado-de-oferta]] · [[diseno-y-creatividades]] · [[ia-en-el-flujo-de-trabajo]]
+Relacionado: [[seleccion-y-modelado-de-oferta]] · [[imagenes-y-mockups]] · [[ia-en-el-flujo-de-trabajo]]

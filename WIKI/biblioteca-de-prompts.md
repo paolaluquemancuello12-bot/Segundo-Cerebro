@@ -22,7 +22,7 @@ Casi todos comparten estructura: **asignación de rol → contexto y misión →
 | `prompt-vsl-oto-post-purchase` | Guion de VSL para el upsell post-compra, estructura obligatoria de 8 puntos |
 | `prompt-testimonios-sora-2` | Pack de producción UGC: guion para ElevenLabs + prompt visual para Sora 2. Regla de 14s / 35–40 palabras, 3 estilos (escéptico convertido, profesional, resultado tangible) |
 
-Ver [[meta-ads-y-anuncios]].
+Ver [[guiones-de-video-ads]].
 
 ## Copy y ángulos
 
@@ -58,7 +58,7 @@ Ver [[seleccion-y-modelado-de-oferta]] · [[aumento-de-aov]].
 | `prompt-one-shot-mockups` | Convierte productos digitales intangibles en objetos fotorrealistas de alto valor percibido |
 | `prompt-ebook-con-claude` | Escribe y maqueta un ebook completo en HTML/CSS para impresión (paged media) |
 
-Ver [[diseno-y-creatividades]] · [[creacion-de-productos-digitales]].
+Ver [[imagenes-y-mockups]] · [[creacion-de-productos-digitales]].
 
 ## Web
 

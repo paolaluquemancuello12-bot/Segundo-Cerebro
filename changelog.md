@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-10-15 — Guiones, hooks, IA, imágenes + índice anterior
+### Qué cambió
+- Nuevas páginas: [[guiones-de-video-ads]], [[hooks]], [[ia-en-el-flujo-de-trabajo]], [[imagenes-y-mockups]].
+- El índice del wiki anterior se guardó como `RAW/wiki-externo/_index-anterior.md`, sin reemplazar el índice actual. Sirve como **mapa de lo que falta importar**: tenía 46 páginas, de las que ya hay 19.
+- Ahora que existen las páginas reales, se corrigieron los enlaces provisionales (`guiones-de-video-ads`, `imagenes-y-mockups`) en 5 páginas importadas antes.
+- Notas del bibliotecario: los *claims* de salud en los ejemplos de hooks y los testimonios creados con WhatsApp.
+
+### Conexiones inesperadas
+1. **Ya aplicabas la "variación modular" sin nombrarla:** en Salad Dressing Bible hiciste 3 guiones sobre visuales existentes + 3 nuevos, y en Aroma Stones, guiones largos y resumidos. El método del mentor (mantener los pasos 3–7 y variar solo hook y re-hook) es la versión sistemática.
+2. **Tu exigencia de "que no parezca ChatGPT" tiene solución en el propio método:** el prompt `educar-chatgpt` va como instrucción permanente del proyecto, y hay "un proyecto por producto con sus 4 documentos". Hoy ninguno de tus 11 proyectos tiene sus documentos (avatar, offer brief, creencias, investigación) en este cerebro.
+3. **Este segundo cerebro es exactamente lo que recomienda el mentor:** "carpeta local como segundo cerebro… que cite de dónde sale cada recomendación" + "archivo de aprendizajes". El próximo paso natural es crear `OUTPUTS/aprendizajes.md`.
+4. **Los hooks de tus proyectos encajan en los tipos del análisis de hooks:** «7 días de comidas en 3 horas» (Come y Baja) = *series y sistemas* + *tiempo ultra corto*; «En lugar de gastar en pan…» (panes turcos) = *eliminación de objeción económica*.
+
+---
+
 ## 2026-10-15 — Escalado, CBO, filosofía, WhatsApp y funnel hacking
 ### Qué cambió
 - Nuevas páginas: [[escalado-en-meta-ads]], [[estructuras-cbo]], [[filosofia-de-marketing]], [[funnel-de-whatsapp]], [[funnel-hacking]] (originales en `RAW/wiki-externo/`).

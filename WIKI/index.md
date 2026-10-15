@@ -28,6 +28,10 @@ _Última construcción: 2026-10-15 · Fuentes: `RAW/2026-10-15-negocio.md`, `RAW
 - [[filosofia-de-marketing]] — Direct response, principios del mentor, Hormozi/Agora, el bucle completo.
 - [[funnel-de-whatsapp]] — Anuncio → WhatsApp 1-a-1, campaña de interacción optimizada a compra, cobro local.
 - [[funnel-hacking]] — Espiar ofertas: regla de 3 días, mismo URL, descartar marcas personales, dónde espiar según el mercado.
+- [[guiones-de-video-ads]] — Fórmula de 7 pasos, variación modular (solo hook y re-hook), formatos por duración, montaje.
+- [[hooks]] — Hook rate >50%, lo visual pesa más, el método de los «influencers quebrados».
+- [[ia-en-el-flujo-de-trabajo]] — Documentos como memoria, un proyecto por producto, Claude Code como centro de la operación.
+- [[imagenes-y-mockups]] — NO FLAT COVERS, prompts de mockup, mockups con fondo transparente para el checkout.
 - [[vacios-de-informacion]] — Qué falta saber (3 gaps principales).
 
 ## Proyectos

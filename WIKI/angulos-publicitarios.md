@@ -22,7 +22,7 @@ Una variación cuenta si cambia alguna de estas dimensiones:
 
 No cuenta si solo cambian palabras. Pedir 30 variaciones y recibir 30 versiones casi idénticas es un fracaso.
 
-Ver [[meta-ads-y-anuncios]].
+Ver [[guiones-de-video-ads]].
 
 ## Ángulos que Santiago usa como categorías
 
@@ -129,4 +129,4 @@ Dos lecciones dedicadas al principio: `apalancate-de-lo-que-ya-funciona` y `vari
 - **90% variaciones del ganador** (avatar, hook, edición, clickbait) **+ 10% ángulos nuevos**, modelando competencia directa e indirecta.
 - **Ángulos completamente nuevos 2–3 veces por semana**, para no saturar uno solo. El resto de los días, sub-ángulos y variaciones de lo validado.
 
-Relacionado: [[hooks]] · [[meta-ads-y-anuncios]] · [[testeo-de-creativos]] · [[investigacion-de-mercado]]
+Relacionado: [[hooks]] · [[guiones-de-video-ads]] · [[testeo-de-creativos]] · [[investigacion-de-mercado]]

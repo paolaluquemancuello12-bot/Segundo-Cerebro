@@ -60,4 +60,4 @@ Complementaria y con prompt propio (`RAW/prompts/prompt-angulos.md`): investigac
 
 El principio que ordena el análisis de competencia: no copiar literalmente, sino identificar **qué está funcionando y por qué** para después **adaptar → mejorar → testear**.
 
-Relacionado: [[seleccion-y-modelado-de-oferta]] · [[angulos-publicitarios]] · [[biblioteca-de-prompts]] · [[landing-pages]]
+Relacionado: [[seleccion-y-modelado-de-oferta]] · [[angulos-publicitarios]] · [[biblioteca-de-prompts]] · [[pagina-de-ventas]]

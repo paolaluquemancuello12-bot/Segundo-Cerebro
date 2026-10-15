@@ -18,7 +18,7 @@ La formulación más compacta de todo el sistema, y el mejor mapa de esta wiki:
 |---|---|---|
 | **1. Mercado** | Las personas que te van a comprar. La variable que más pesa | [[segmentos-de-mercado]] · [[funnel-hacking]] |
 | **2. Anuncios** | La comunicación que convierte desconocidos en clientes | [[hooks]] · [[guiones-de-video-ads]] · [[testeo-de-creativos]] |
-| **3. Funnel** | Landing, checkout, backend | [[landing-pages]] · [[aumento-de-aov]] |
+| **3. Funnel** | Landing, checkout, backend | [[pagina-de-ventas]] · [[aumento-de-aov]] |
 | **4. Producto** | Lo que entregás | [[creacion-de-productos-digitales]] |
 
 **El criterio del mercado es uno solo: urgencia de compra.**
@@ -210,7 +210,7 @@ Hay una consecuencia estratégica: **con buen AOV se puede pagar el tráfico má
 | **Monetización** | Low-ticket, upsells, bundles, high-ticket, consultoría |
 | **Retención** | Email (Flodesk), WhatsApp, comunidades VIP |
 
-Ver [[stack-de-herramientas]] · [[shopify-y-checkout]] · [[landing-pages]].
+Ver [[stack-de-herramientas]] · [[shopify-y-checkout]] · [[pagina-de-ventas]].
 
 ## Tipos de funnel que se usan
 

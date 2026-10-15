@@ -62,7 +62,7 @@ Están apuntando al **nivel de conciencia equivocado** y atraen curiosos. Ver [[
 
 ### 7. Falta de urgencia y escasez
 
-En la página de ventas. De lo más fácil de arreglar. Ver [[landing-pages]].
+En la página de ventas. De lo más fácil de arreglar. Ver [[pagina-de-ventas]].
 
 ### 8. Promesa imposible de cumplir
 
@@ -80,7 +80,7 @@ Y si el problema apareció **justo después de renovar creativos**, ir directo a
 
 | Ratio que falla | Dónde mirar |
 |---|---|
-| Visita → inicio de checkout < 10% | La landing no persuade ([[landing-pages]]) |
+| Visita → inicio de checkout < 10% | La landing no persuade ([[pagina-de-ventas]]) |
 | **Inicio de checkout → compra < 25%** | **Esta lista** |
 | Se rompió tras renovar creativos | Causa 6 |
 
@@ -95,4 +95,4 @@ Y si el problema apareció **justo después de renovar creativos**, ir directo a
   - Logo de la marca
 - Si la conversión del checkout es baja, **antes de bajar el precio**, mejorar la oferta con **bonos estratégicos** que resuelvan un problema real. No sirve sumar bonos por cantidad.
 
-Relacionado: [[shopify-y-checkout]] · [[metricas-y-kpis]] · [[landing-pages]] · [[psicologia-del-comprador]] · [[optimizacion-de-roas]]
+Relacionado: [[shopify-y-checkout]] · [[metricas-y-kpis]] · [[pagina-de-ventas]] · [[psicologia-del-comprador]] · [[optimizacion-de-roas]]

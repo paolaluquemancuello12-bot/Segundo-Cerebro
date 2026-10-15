@@ -38,4 +38,4 @@ fuentes: [RAW/wiki-externo/claude-con-meta-ads.md, operación real con el conect
 - Pedile que **cree todo en pausa y te muestre el resumen** antes de activar.
 - Al final, que **verifique el estado real** de cada campaña, conjunto y anuncio.
 
-Relacionado: [[metodo-v3]] · [[nomenclatura-del-metodo]] · [[ia-en-el-flujo-de-trabajo]] · [[contingencia-de-cuentas]]
+Relacionado: [[metodo-v3]] · [[nomenclatura-del-metodo]] · [[ia-en-el-flujo-de-trabajo]] · [[problemas-de-cuentas-meta]]

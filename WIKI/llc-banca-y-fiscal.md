@@ -12,7 +12,7 @@ fuentes: [RAW/wiki-externo/llc-banca-y-fiscal.md, clases de la formación y expe
 
 - **Mantenimiento anual:** tasa estatal + agente registrado + declaración de impuestos. Referencia: **~350–400 USD por año** en total.
 - Muchas gestorías cobran un margen alto sobre el costo real del trámite estatal. Compará antes de contratar.
-- Cargar la **dirección de facturación de la LLC** en la "Información del negocio" del Business Manager ayuda a subir el límite de gasto de Meta ([[contingencia-de-cuentas]]).
+- Cargar la **dirección de facturación de la LLC** en la "Información del negocio" del Business Manager ayuda a subir el límite de gasto de Meta ([[problemas-de-cuentas-meta]]).
 
 ## ITIN
 

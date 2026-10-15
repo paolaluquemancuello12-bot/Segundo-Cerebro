@@ -70,7 +70,7 @@ De dónde salen esas imágenes de referencia:
 
 ## Recursos visuales para landings
 
-Hay lección dedicada que cubre la producción completa de assets: **testimonios, mockups, fondos, imágenes y carruseles**. Los testimonios de las landings ganadoras Santiago los crea **con su propio WhatsApp** ([[landing-pages]]).
+Hay lección dedicada que cubre la producción completa de assets: **testimonios, mockups, fondos, imágenes y carruseles**. Los testimonios de las landings ganadoras Santiago los crea **con su propio WhatsApp** ([[pagina-de-ventas]]).
 
 > ⚠️ **Nota del bibliotecario:** testimonios creados con el propio WhatsApp = testimonios inventados. Mismo riesgo que los prompts marcados en [[biblioteca-de-prompts]] y en [[disputas-y-reembolsos]].
 
@@ -122,4 +122,4 @@ Otras: Midjourney v6 · DALL-E 3 · Higgsfield · Grok (B-roll) · Canva (landin
 - **Meta tiene generación de imágenes nativa** en el editor de anuncios, con variantes automáticas a partir de una imagen subida.
 - **Testimonios y capturas para la landing:** el prompt de imagen no se escribe a mano. Se le pide a ChatGPT o Claude («comentario de Facebook», «captura de chat de WhatsApp», «fondo de landing de alto valor percibido»).
 
-Relacionado: [[landing-pages]] · [[creacion-de-productos-digitales]] · [[videos-y-voces]] · [[biblioteca-de-prompts]]
+Relacionado: [[pagina-de-ventas]] · [[creacion-de-productos-digitales]] · [[videos-y-voces]] · [[biblioteca-de-prompts]]

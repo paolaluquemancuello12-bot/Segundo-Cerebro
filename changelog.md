@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-10-15 — Organización, página de ventas, cuentas Meta, procesadores, psicología
+### Qué cambió
+- Nuevas páginas: [[organizacion-y-registro]], [[pagina-de-ventas]], [[problemas-de-cuentas-meta]], [[procesadores-de-pago]], [[psicologia-del-comprador]]. Van 34 de las 46.
+- Se reapuntaron solos los enlaces provisionales: `pagina-de-ventas` (antes `landing-pages`) y `problemas-de-cuentas-meta` (antes `contingencia-de-cuentas`).
+- Nota del bibliotecario en la página de ventas: la urgencia inventada ("cupos", "31 personas viendo").
+
+### Conexiones inesperadas
+1. **La estructura de 10 bloques del mentor encaja con tu crítica de siempre al hero.** El bloque 1 es "promesa de transformación con un número", que es justo lo que pides ("la promesa es floja", números respaldados). Panes turcos y Baby's First Bites ya tienen el hero trabajado; falta revisar los otros 9 bloques.
+2. **"Ahorro en dinero, nunca en %"** contradice cómo se presentan Macramé (−55%) y el Manual del Yesero (−70%). Tus ofertas argentinas muestran el porcentaje; según el mentor deberían decir "te ahorrás 24.490 pesos" y "te ahorrás 41.501 pesos".
+3. **"TSL para 10–20 USD, VSL desde 49 USD":** los 27 USD de tu plantilla en inglés quedan justo entre ambos. Es un test concreto: TSL contra VSL en la misma oferta, como sugiere el mentor.
+4. **El registro diario que pide [[organizacion-y-registro]] va en `OUTPUTS/` de este cerebro**, y lo dice el propio material. Es la pieza que cierra el gap de "Resultados": una página por oferta y por día, con hora y captura de UTMify.
+5. **El cuestionario de Come y Baja es un mini-quiz funnel** (5 preguntas, contra las ~16 del quiz del mentor). Cuando llegue [[quiz-funnel]] se podrá comparar.
+
+---
+
 ## 2026-10-15 — Método V3, métricas, modelo low-ticket, nomenclatura, ROAS
 ### Qué cambió
 - Nuevas páginas: [[metodo-v3]], [[metricas-y-kpis]], [[modelo-low-ticket]], [[nomenclatura-del-metodo]], [[optimizacion-de-roas]]. Van 29 de las 46.

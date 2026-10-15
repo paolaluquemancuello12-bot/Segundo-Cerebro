@@ -2,6 +2,8 @@
 
 _Fuente: `RAW/2026-10-15-negocio.md`_ (§4)
 
+**Método del mentor:** [[pagina-de-ventas]] · [[psicologia-del-comprador]].
+
 ## Herramienta
 **Lovable** — páginas nuevas y cambios puntuales en proyectos existentes.
 Problema conocido: no respetaba la personalización de imágenes por país ([[proyecto-come-y-baja]]).

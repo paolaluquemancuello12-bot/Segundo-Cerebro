@@ -34,7 +34,7 @@ Ver [[guiones-de-video-ads]].
 | `prompt-escribir-sales-page` | Style transfer desde una carta de ventas fuente al producto nuevo. **Son dos prompts**: uno escribe el sales letter y otro lo **acorta**. Se ejecuta en Claude |
 | `prompt-comentarios-positivos-ig` | Imágenes de secciones de comentarios de Instagram ultra realistas, como prueba social |
 
-Ver [[angulos-publicitarios]] · [[landing-pages]].
+Ver [[angulos-publicitarios]] · [[pagina-de-ventas]].
 
 **Inputs que exige el prompt de sales page** (útil tenerlos listos antes de ejecutarlo): nombre y producto · nicho · avatar · **el gran número** · promesa principal · dolores · **el enemigo** (lo que ya probaron y les falló) · características clave · bonus · precio real y precio de oferta.
 
@@ -68,7 +68,7 @@ Ver [[imagenes-y-mockups]] · [[creacion-de-productos-digitales]].
 | `prompt-magic-patterns` | Detecta nicho y avatar leyendo el sales copy y genera la landing con paleta y UI acordes |
 | `prompt-optimizar-carga-web-html` | Core Web Vitals para landings de tráfico pago, sin alterar el diseño |
 
-Ver [[landing-pages]].
+Ver [[pagina-de-ventas]].
 
 ## Meta
 

@@ -42,6 +42,11 @@ _Última construcción: 2026-10-15 · Fuentes: `RAW/2026-10-15-negocio.md`, `RAW
 - [[modelo-low-ticket]] — El modelo del mentor: mercado → anuncios → funnel → producto, las ofertas caducan a los 3–4 meses.
 - [[nomenclatura-del-metodo]] — Cómo nombrar campañas, conjuntos, anuncios, pujas y UTMs.
 - [[optimizacion-de-roas]] — 6 palancas para sacar un funnel de break-even; el backend es obligatorio.
+- [[organizacion-y-registro]] — Registro diario por oferta, tres cuentas con tres trabajos, recorrido de herramientas.
+- [[pagina-de-ventas]] — Estructura de 10 bloques, ahorro en dinero y no en %, TSL vs. VSL, carga 60–90%, Magic Patterns.
+- [[problemas-de-cuentas-meta]] — Síntomas y soluciones: límites, rechazos, apelaciones, Business Manager.
+- [[procesadores-de-pago]] — Stripe, Whop, MercadoPago y PayPal: qué gana y qué pierde cada uno.
+- [[psicologia-del-comprador]] — Comprador emocional, lógico y por FOMO; qué bloque de la landing convence a cada uno.
 - [[vacios-de-informacion]] — Qué falta saber (3 gaps principales).
 
 ## Proyectos

@@ -123,7 +123,7 @@ Y se **vuelve a revisar en 2–3 días**: si subió el número de anuncios, est�
 
 No solo la oferta. También:
 
-- Estructura de la landing ([[landing-pages]])
+- Estructura de la landing ([[pagina-de-ventas]])
 - **Psicología de los creativos**, guiones, texto de anuncios
 - Order bumps y upsells (se puede **comprar la oferta** para ver el post-pago) → materia prima del backend ([[aumento-de-aov]])
 - Precio y plataforma de cobro
@@ -136,7 +136,7 @@ Casi todas las ofertas que encuentra tienen algo flojo. En la lección critica u
 
 > «Transforma tu cuerpo y tu energía con estas 10 recetas secretas comprobadas por la ciencia en menos de 5 días.»
 
-**El hueco suele estar en la promesa, los mockups y el copy**, no en el producto. Ver [[landing-pages]].
+**El hueco suele estar en la promesa, los mockups y el copy**, no en el producto. Ver [[pagina-de-ventas]].
 
 ## Ejemplos reales encontrados en la clase
 

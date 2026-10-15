@@ -30,7 +30,7 @@ Cuando el CTR del link está en **4–7%** y el hook rate en **40–60%**, el an
 - **Los relevos de un ganador cansado** tenían un hook rate más bajo (0,45–0,52 contra 0,60), pero **casi el doble de gente que pasaba al pago**. Atraían menos gente, pero gente mejor.
 - **Cuánto vale arreglarlo:** en una oferta, llevar ese paso de 8,8% a 12% con la misma inversión daba **+83 ventas por semana** y el ROAS pasaba de 1,04 a 1,42.
 
-Qué tocar en la landing: [[landing-pages]].
+Qué tocar en la landing: [[pagina-de-ventas]].
 
 ## 3. Las tarjetas rechazadas
 
@@ -70,4 +70,4 @@ Qué tocar en la landing: [[landing-pages]].
 5. ¿El AOV llega a 1,5 veces el front?
 6. ¿Alguna cuenta o franja horaria está perdiendo?
 
-Relacionado: [[metricas-y-kpis]] · [[diagnostico-de-checkout]] · [[landing-pages]] · [[tracking-y-atribucion]] · [[metodo-v3]]
+Relacionado: [[metricas-y-kpis]] · [[diagnostico-de-checkout]] · [[pagina-de-ventas]] · [[tracking-y-atribucion]] · [[metodo-v3]]

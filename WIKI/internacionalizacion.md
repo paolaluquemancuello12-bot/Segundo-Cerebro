@@ -60,7 +60,7 @@ Con eso la misma página se sirve en el otro idioma. Y funciona igual para el **
 
 **4. Lo que la IA no traduce**
 - **Las imágenes hay que traducirlas a mano** (Canva, Higgsfield, Sora). Si la landing es de imágenes apiladas, es trabajo manual
-- Si la landing es **con código**, se le pide a la IA que la traduzca — trivial. Otra ventaja del código sobre las imágenes ([[landing-pages]])
+- Si la landing es **con código**, se le pide a la IA que la traduzca — trivial. Otra ventaja del código sobre las imágenes ([[pagina-de-ventas]])
 
 **5. Los anuncios**
 Traducir el guion con ChatGPT → generar la voz en **ElevenLabs** o Google Studio. Ver [[videos-y-voces]].

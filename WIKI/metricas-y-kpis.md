@@ -75,7 +75,7 @@ Una idea que atraviesa todo el material: **el targeting hoy está en el creativo
 | **Inicio de checkout → compra** | 25–30% |
 | **AOV / front-end ratio** | ≥ 1,5 · hasta 2–2,5 en productos digitales |
 
-El ratio visita → inicio de checkout es el que mide **cuán persuasiva es la página de ventas**. Si no llega al 10%, el problema está en la landing, no en los anuncios (ver [[landing-pages]]).
+El ratio visita → inicio de checkout es el que mide **cuán persuasiva es la página de ventas**. Si no llega al 10%, el problema está en la landing, no en los anuncios (ver [[pagina-de-ventas]]).
 
 El AOV/front-end ratio mide si el backend está haciendo su trabajo: con un front de 10 USD, el AOV debería estar en 15 como mínimo. Ver [[aumento-de-aov]].
 

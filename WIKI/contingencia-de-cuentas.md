@@ -6,6 +6,8 @@ fuentes: [RAW/wiki-externo/contingencia-de-cuentas.md, RAW/formacion/lecciones/c
 
 # Contingencia de cuentas y BMs
 
+_Síntomas puntuales y qué hacer: [[problemas-de-cuentas-meta]]._
+
 Riesgo operativo real, no teórico: es habitual que se bloqueen **varias cuentas de Facebook al mismo tiempo**, con apelaciones que piden documento y escaneo facial. Y hay efectos colaterales: si Instagram estaba conectado a ManyChat mediante uno de esos perfiles, la integración se rompe.
 
 > «Si solo dependés de un perfil, un Business Manager o dos o tres cuentas publicitarias, estás colgando de un hilo.»

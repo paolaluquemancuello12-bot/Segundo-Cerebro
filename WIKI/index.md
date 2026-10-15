@@ -47,6 +47,11 @@ _Última construcción: 2026-10-15 · Fuentes: `RAW/2026-10-15-negocio.md`, `RAW
 - [[problemas-de-cuentas-meta]] — Síntomas y soluciones: límites, rechazos, apelaciones, Business Manager.
 - [[procesadores-de-pago]] — Stripe, Whop, MercadoPago y PayPal: qué gana y qué pierde cada uno.
 - [[psicologia-del-comprador]] — Comprador emocional, lógico y por FOMO; qué bloque de la landing convence a cada uno.
+- [[quiz-funnel]] — ~16 preguntas antes de la oferta; 25–30% de conversión al final, tolera CPC de 1 USD (InLead).
+- [[renovacion-de-creativos]] — Por qué muere un ganador (se satura el público) y las 4 formas de revivirlo.
+- [[segmentos-de-mercado]] — Salud, dinero y relaciones: urgencia de compra; matriz nicho × mercado.
+- [[seleccion-y-modelado-de-oferta]] — Modelar ≠ clonar; nunca modelar en el mismo mercado; bundle Nx1 y bonus.
+- [[setup-de-campanas]] — Campaña de testeo ABO paso a paso, calentar cuentas nuevas, columna de valor promedio.
 - [[vacios-de-informacion]] — Qué falta saber (3 gaps principales).
 
 ## Proyectos

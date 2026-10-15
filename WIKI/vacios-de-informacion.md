@@ -21,8 +21,8 @@ Para cuando haya métricas: el orden de diagnóstico está en [[lectura-de-resul
 - Cifra real de ahorro para [[proyecto-panes-turcos]].
 - Nombre del usuario: no registrado ("Santiago Bilbao" es, probablemente, el mentor) → [[perfil-y-forma-de-trabajo]].
 
-## Páginas referenciadas que todavía no existen (12)
+## Páginas referenciadas que todavía no existen (7)
 Páginas de tu wiki anterior (según `RAW/wiki-externo/_index-anterior.md` y los enlaces de las ya importadas) que todavía no están aquí:
-[[quiz-funnel]] · [[renovacion-de-creativos]] · [[segmentos-de-mercado]] · [[seleccion-y-modelado-de-oferta]] · [[setup-de-campanas]] · [[shopify-y-checkout]] · [[stack-de-herramientas]] · [[subir-ads-con-metodo-catalogo]] · [[testeo-de-creativos]] · [[tracking-y-atribucion]] · [[ugc-y-video-generativo]] · [[validacion-de-oferta]]
+[[shopify-y-checkout]] · [[stack-de-herramientas]] · [[subir-ads-con-metodo-catalogo]] · [[testeo-de-creativos]] · [[tracking-y-atribucion]] · [[ugc-y-video-generativo]] · [[validacion-de-oferta]]
 
 También citan fuentes que no están en este RAW: `RAW/formacion/…`, `RAW/youtube/…` y `RAW/contexto-chatgpt.md`.

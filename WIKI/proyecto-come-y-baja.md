@@ -9,6 +9,8 @@ _Fuente: `RAW/2026-10-15-negocio.md` (§6)_
 - **Mercados:** Argentina, Chile, Colombia, Perú, Paraguay, México.
 - **Precio AR:** 60.000 ARS (anterior) → **19.999 ARS**. Otros países: sin definir.
 
+Comparar con el quiz del mentor (~16 preguntas, analítica por etapa): [[quiz-funnel]].
+
 ## Landing
 - Cuestionario inicial: país, género, edad, peso, altura → resultado → oferta ([[landing-pages]]).
 - Al cambiar de país cambian moneda, precio, idioma, imágenes, platos típicos y referencias ([[localizacion]]).

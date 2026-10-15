@@ -36,6 +36,8 @@ Productos vendibles, ofertas con demanda, más conversión, páginas persuasivas
 ## Cartera
 Ver [[index]] → sección Proyectos (A–K).
 
+Elegir terreno y oferta: [[segmentos-de-mercado]] · [[seleccion-y-modelado-de-oferta]].
+
 **El modelo de referencia del mentor:** [[modelo-low-ticket]]. KPIs: [[metricas-y-kpis]].
 
 Backend y upsells: [[aumento-de-aov]]. De dónde salen las ofertas (paso 1 del flujo): [[funnel-hacking]]. Principios del mentor: [[filosofia-de-marketing]]. Variante sin landing: [[funnel-de-whatsapp]].

@@ -1,5 +1,23 @@
 # Changelog
 
+## 2026-10-15 — Quiz, renovación, segmentos, modelado de oferta, setup
+### Qué cambió
+- Nuevas páginas: [[quiz-funnel]], [[renovacion-de-creativos]], [[segmentos-de-mercado]], [[seleccion-y-modelado-de-oferta]], [[setup-de-campanas]]. Van 39 de las 46.
+- Come y Baja enlaza al quiz funnel. El modelo de negocio enlaza a segmentos y modelado.
+
+### Conexiones inesperadas
+1. **Tus 11 proyectos según los "big niches" del mentor:**
+   - **Dinero ("gana dinero con un oficio", su favorito):** Aroma Stones (E), Manual del Yesero (G) y Herramientas para tu negocio (K).
+   - **Salud:** Come y Baja (B) y Ejercicios para mayores (J).
+   - **Relaciones (crianza e hijos):** Baby's First Bites (C), Alphabet (H) y Social Stories (I).
+   - **Fuera de los tres (menos urgencia):** Salad Dressing (A), panes turcos (D) y Macramé (F). Macramé es casi literalmente su ejemplo de "crochet por hobby".
+2. **Macramé y Yesero pueden pasar a "dinero" con el mismo PDF.** Es el "un producto, dos mercados" de [[angulos-publicitarios]]: "aprendé macramé" (hobby) → "vendé macramé desde casa" (ingreso extra). Además, Macramé ya trae los bonos "Guía de precios" y "Proveedores".
+3. **Ya cumples la regla "nunca modeles en el mismo mercado":** Baby's First Bites (BR → EN), Kit de ejercicios (PT → EN), Macramé y Yesero (AR → EN). La excepción a revisar es **Come y Baja**: su referencia (cocinaresueltaok) parece del mismo mercado hispano en el que la lanzas.
+4. **El mentor convirtió los upsells del competidor en bonus (3x1).** Tu Macramé con 8 bonos y el Yesero con 7 ya siguen ese patrón. Los proyectos A y C con "1 + 3" son los que tienen margen para un stack mayor.
+5. **La salud en inglés pierde contra nutracéuticos con AOV de 60–100 USD.** Según [[segmentos-de-mercado]], el Kit de ejercicios para mayores en inglés solo es viable con un mecanismo único fuerte y backend; si no, encaja mejor en LatAm o en el mercado nacional.
+
+---
+
 ## 2026-10-15 — Organización, página de ventas, cuentas Meta, procesadores, psicología
 ### Qué cambió
 - Nuevas páginas: [[organizacion-y-registro]], [[pagina-de-ventas]], [[problemas-de-cuentas-meta]], [[procesadores-de-pago]], [[psicologia-del-comprador]]. Van 34 de las 46.

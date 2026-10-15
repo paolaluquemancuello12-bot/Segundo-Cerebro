@@ -4,6 +4,8 @@ _Fuente: `RAW/2026-10-15-negocio.md`_
 
 Qué métricas registrar por proyecto (mínimo): gasto, ventas, CPA vs. CPA break-even, comprate, visita → checkout, AOV / front → [[metricas-y-kpis]].
 
+**Dónde registrarlas:** el historial de la skill [[ad-builder]] (por creativo) + el registro diario de [[organizacion-y-registro]] (por oferta).
+
 Para cuando haya métricas: el orden de diagnóstico está en [[lectura-de-resultados]].
 
 ## Los 3 mayores gaps

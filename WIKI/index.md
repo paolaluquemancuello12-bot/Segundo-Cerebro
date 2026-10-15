@@ -59,6 +59,7 @@ _Última construcción: 2026-10-15 · Fuentes: `RAW/2026-10-15-negocio.md`, `RAW
 - [[tracking-y-atribucion]] — UTMify, un dashboard por oferta, pixel recategorizado, el país de UTMify no es confiable.
 - [[ugc-y-video-generativo]] — Reglas fijas de UGC, avatares recurrentes, pack Sora 2, avatar de VSL en HeyGen.
 - [[validacion-de-oferta]] — 100 USD y una semana por oferta, MVP primero, el caso de los 109K en 30 días.
+- [[ad-builder]] — Skill instalada: historial de resultados por creativo, nomenclatura `ANG-N_FMT_H_v`, veredictos y compliance.
 - [[vacios-de-informacion]] — Qué falta saber (3 gaps principales).
 
 ## Proyectos

@@ -1,5 +1,21 @@
 # Changelog
 
+## 2026-10-15 — Skill ad-builder instalada
+### Qué cambió
+- Instalada la skill en `.claude/skills/ad-builder/` (SKILL.md + 4 referencias). Hay copia de archivo en `RAW/skills/ad-builder/`.
+- Creadas `CREATIVOS/entregas/` y `CREATIVOS/swipe/`.
+- Nueva página [[ad-builder]]. `CLAUDE.md` ampliado con la estructura nueva.
+- [[vacios-de-informacion]]: dónde registrar las métricas.
+
+### Conexiones inesperadas
+1. **La skill es la respuesta al gap número 1 del cerebro (Resultados).** Su historial es exactamente lo que faltaba: una fila por creativo con números reales y un veredicto. Su frase "es el estado actual y el que este sistema viene a cortar" describe tu memoria: muchos creativos producidos, ninguna métrica registrada.
+2. **Su compliance confirma, con otras palabras, todas las notas del bibliotecario:** "solo citas reales, nunca redactar un testimonio como si fuera de un cliente". Choca con `prompt-comentarios-positivos-ig`, `prompt-testimonios-sora-2` y los testimonios por WhatsApp de [[imagenes-y-mockups]]. La regla más reciente y más estricta es la de la skill.
+3. **Tres de tus proyectos caen en sus "nichos de riesgo de cuenta":** Come y Baja (cifras de peso), Aroma Stones (claims de ingresos: los ejemplos "160 → 1.600 CHF" son justo lo que la skill prohíbe) y el Kit de ejercicios (promesa médica). Deberían correr aislados, nunca en la cuenta principal.
+4. **Sus ejemplos de compliance hablan de productos para docentes y de crochet.** Es el mismo terreno que tus proyectos H/I (alphabet, social stories) y F (macramé): "en productos para docentes, ni las escuelas ni el sistema educativo pueden ser el villano".
+5. **"❌ mata el anuncio, nunca el ángulo"** resuelve la contradicción de reglas de corte anotada en [[lectura-de-resultados]]: cortar rápido un **anuncio** está bien; descartar un **ángulo** exige ≥3 creativos y gasto ≥ break-even.
+
+---
+
 ## 2026-10-15 — UGC y validación: importación del wiki anterior completa
 ### Qué cambió
 - Nuevas páginas: [[ugc-y-video-generativo]], [[validacion-de-oferta]]. **46 de 46: el wiki anterior está completo** y no quedan enlaces rotos.

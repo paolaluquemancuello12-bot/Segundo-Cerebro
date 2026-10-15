@@ -14,6 +14,8 @@ Esta carpeta es mi segundo cerebro personal. Eres el bibliotecario de este segun
 - `WIKI/` — Conocimiento organizado: `index.md` + un `.md` por tema + links entre temas con `[[nombre-tema]]`.
 - `OUTPUTS/` — Respuestas, análisis e informes con fecha.
 - `changelog.md` — Fecha del último procesado + qué cambió.
+- `.claude/skills/ad-builder/` — Skill de producción y testeo de creativos. Su `references/historial-resultados.md` es el registro vivo de resultados por creativo: se lee antes de producir y se actualiza apenas hay números.
+- `CREATIVOS/entregas/<fecha>/<dashboard>-<producto>/` — Creativos producidos, con la nomenclatura de la skill. `CREATIVOS/swipe/` — ads de competencia.
 
 ## Reglas
 - Al añadir una nota a `RAW/`, usar el nombre `AAAA-MM-DD-tema.md`.

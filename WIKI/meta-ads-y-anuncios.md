@@ -34,4 +34,6 @@ Si la oferta se siente débil → **reforzar la promesa**, no agregar explicaci�
 
 Relacionado: [[videos-y-voces]], [[diseno-y-creatividades]].
 
+Escala y estructuras: [[escalado-en-meta-ads]] · [[estructuras-cbo]]
+
 Ver también: [[angulos-publicitarios]] · [[claude-con-meta-ads]] · [[contingencia-de-cuentas]] · [[biblioteca-de-prompts]]

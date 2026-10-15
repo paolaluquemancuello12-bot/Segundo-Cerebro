@@ -1,5 +1,20 @@
 # Changelog
 
+## 2026-10-15 — Escalado, CBO, filosofía, WhatsApp y funnel hacking
+### Qué cambió
+- Nuevas páginas: [[escalado-en-meta-ads]], [[estructuras-cbo]], [[filosofia-de-marketing]], [[funnel-de-whatsapp]], [[funnel-hacking]] (originales en `RAW/wiki-externo/`).
+- Nota del bibliotecario en WhatsApp: los impuestos y el cobro con cuenta prestada. El funnel hacking ya traía la nota sobre el cloaking (Ghost Ads).
+- Enlaces desde modelo de negocio y Meta Ads. Las páginas pendientes siguen en 22: salieron 2 y apareció 1 nueva (`organizacion-y-registro`).
+
+### Conexiones inesperadas
+1. **Tu flujo de 10 pasos es el "bucle completo" del mentor sin la mitad de atrás.** El de [[filosofia-de-marketing]] sigue después de lanzar: encontrar ganadores → optimizar funnel → subir AOV → escalar → internacionalizar. Tu memoria termina en "lanzar y corregir". Eso explica el vacío de métricas: no hay registro de la fase de escala.
+2. **Tu método de referencias ya es funnel hacking, pero sin el filtro.** Proyectos como Come y Baja (cocinaresueltaok), Baby's First Bites (oferta brasileña) o el kit de ejercicios (versión en portugués) salen de ofertas ajenas. Lo que falta es anotar el **dato de validación** (anuncios activos, días corriendo, mismo URL). Justo eso decía la memoria: "no está registrada la evidencia de la validación".
+3. **"Espiar en Brasil, lanzar en otro mercado" ya es tu patrón.** Baby's First Bites (BR → EN) y el kit de ejercicios (PT → EN) coinciden con la tabla de "dónde espiar según el mercado".
+4. **"Más anuncios, no más ofertas" choca con tu cartera de 11 proyectos.** El mentor dice que de 6 ofertas validadas solo 1 escala. Tienes 11 en paralelo y ninguna con métricas, así que no se puede saber cuál es "la que escala". Pregunta para el próximo análisis: ¿cuál de las 11 tiene ventas reales?
+5. **WhatsApp encaja con Come y Baja:** es LatAm, en pesos, sin post-pago en Shopify. El funnel de WhatsApp (cobro por transferencia, sin comisiones, upsell por chat) evita el bloqueo técnico del checkout en USD.
+
+---
+
 ## 2026-10-15 — 5 páginas más + Santiago = mentor
 ### Qué cambió
 - Nuevas páginas: [[creacion-de-productos-digitales]], [[diagnostico-de-checkout]], [[disputas-y-reembolsos]], [[email-y-automatizaciones]], [[embudo-vsl-post-pago]] (originales en `RAW/wiki-externo/`).

@@ -36,4 +36,4 @@ Productos vendibles, ofertas con demanda, más conversión, páginas persuasivas
 ## Cartera
 Ver [[index]] → sección Proyectos (A–K).
 
-Backend y upsells: [[aumento-de-aov]].
+Backend y upsells: [[aumento-de-aov]]. De dónde salen las ofertas (paso 1 del flujo): [[funnel-hacking]]. Principios del mentor: [[filosofia-de-marketing]]. Variante sin landing: [[funnel-de-whatsapp]].

@@ -23,6 +23,11 @@ _Última construcción: 2026-10-15 · Fuentes: `RAW/2026-10-15-negocio.md`, `RAW
 - [[disputas-y-reembolsos]] — Contracargos < 1%, términos y condiciones, Stripe, disputas con Claude Code.
 - [[email-y-automatizaciones]] — Carritos abandonados (Sendvio, 6 emails), Flodesk, WhatsApp vs. email por mercado.
 - [[embudo-vsl-post-pago]] — 3–4 OTOs con VSL de avatar, downsells, precios EN/ES, GPT como soporte 1-a-1.
+- [[escalado-en-meta-ads]] — Escala vertical, ritmo semanal, CostCap, BidCap, intrapuja, Pocket, surfeo, reglas de corte.
+- [[estructuras-cbo]] — Notación C-C-A, mapa de 9 estructuras CBO, datos CBO vs. ABO, reglas para operar.
+- [[filosofia-de-marketing]] — Direct response, principios del mentor, Hormozi/Agora, el bucle completo.
+- [[funnel-de-whatsapp]] — Anuncio → WhatsApp 1-a-1, campaña de interacción optimizada a compra, cobro local.
+- [[funnel-hacking]] — Espiar ofertas: regla de 3 días, mismo URL, descartar marcas personales, dónde espiar según el mercado.
 - [[vacios-de-informacion]] — Qué falta saber (3 gaps principales).
 
 ## Proyectos

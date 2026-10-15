@@ -19,6 +19,6 @@ _Fuente: `RAW/2026-10-15-negocio.md`_
 
 ## Páginas referenciadas que todavía no existen
 Las páginas importadas de tu wiki anterior (`RAW/wiki-externo/`) enlazan a páginas que todavía no están aquí:
-[[escalado-en-meta-ads]] · [[hooks]] · [[ia-en-el-flujo-de-trabajo]] · [[internacionalizacion]] · [[investigacion-de-mercado]] · [[llc-banca-y-fiscal]] · [[metodo-v3]] · [[metricas-y-kpis]] · [[nomenclatura-del-metodo]] · [[optimizacion-de-roas]] · [[procesadores-de-pago]] · [[psicologia-del-comprador]] · [[renovacion-de-creativos]] · [[segmentos-de-mercado]] · [[seleccion-y-modelado-de-oferta]] · [[setup-de-campanas]] · [[shopify-y-checkout]] · [[stack-de-herramientas]] · [[subir-ads-con-metodo-catalogo]] · [[testeo-de-creativos]] · [[tracking-y-atribucion]] · [[validacion-de-oferta]]
+[[hooks]] · [[ia-en-el-flujo-de-trabajo]] · [[internacionalizacion]] · [[investigacion-de-mercado]] · [[llc-banca-y-fiscal]] · [[metodo-v3]] · [[metricas-y-kpis]] · [[nomenclatura-del-metodo]] · [[optimizacion-de-roas]] · [[organizacion-y-registro]] · [[procesadores-de-pago]] · [[psicologia-del-comprador]] · [[renovacion-de-creativos]] · [[segmentos-de-mercado]] · [[seleccion-y-modelado-de-oferta]] · [[setup-de-campanas]] · [[shopify-y-checkout]] · [[stack-de-herramientas]] · [[subir-ads-con-metodo-catalogo]] · [[testeo-de-creativos]] · [[tracking-y-atribucion]] · [[validacion-de-oferta]]
 
-También citan fuentes que no están en este RAW: `RAW/formacion/lecciones/…`, `RAW/youtube/…` y `RAW/contexto-chatgpt.md`.
+También citan fuentes que no están en este RAW: `RAW/formacion/…`, `RAW/youtube/…` y `RAW/contexto-chatgpt.md`.

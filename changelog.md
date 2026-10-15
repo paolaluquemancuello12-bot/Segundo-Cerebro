@@ -1,5 +1,22 @@
 # Changelog
 
+## 2026-10-15 — Prompts y páginas importadas
+**Procesado:** `RAW/prompts/` (23 prompts + índice) y `RAW/wiki-externo/` (5 páginas de un wiki anterior).
+
+### Qué cambió
+- Nuevas páginas: [[angulos-publicitarios]], [[aumento-de-aov]], [[biblioteca-de-prompts]], [[claude-con-meta-ads]], [[contingencia-de-cuentas]]. Se respetó el texto original; los enlaces se adaptaron a las páginas existentes (ej. `modelo-low-ticket` → `modelo-de-negocio`).
+- Notas del bibliotecario en la biblioteca: prompts de riesgo y la contradicción de precio 14,99 vs. 27 USD.
+- Enlaces nuevos desde Meta Ads, modelo de negocio, copy y materiales de trabajo.
+- [[vacios-de-informacion]]: lista de 20 páginas referenciadas que todavía faltan + duda sobre quién es "Santiago".
+
+### Conexiones inesperadas
+1. **El backend resuelve el upsell sin definir de Salad Dressing Bible.** El modelo de [[aumento-de-aov]] (5 bumps + OTO + downsell) es justo lo que les falta a los proyectos A y C, y el KPI de AOV ≥1,5× el front da un objetivo medible para el gap de "Resultados".
+2. **El 90/10 de ángulos explica por qué tu feedback es "la promesa es floja".** Tu forma de trabajar (iterar sobre referencias) es el 90%. Lo que falta sistematizar es el 10% de ángulos nuevos: por ejemplo, el caso "un producto, dos mercados" aplicado a Macramé o Yesero (hobby vs. ganar dinero con el oficio).
+3. **Hay un bloqueo técnico para tu modelo multi-país:** el upsell post-pago de Shopify exige el checkout en USD y desactivar Markets. Choca con Come y Baja (ARS, 6 países); la vía es Impultienda o Hotmart.
+4. **El conector de Meta en Claude y el bug de Lovable son el mismo tipo de riesgo:** la herramienta dice que hizo algo (PAUSED, imágenes por país) y no lo hizo. Regla común: **verificar siempre el estado real**.
+
+---
+
 ## 2026-10-15 — Construcción inicial del wiki
 **Último procesado de RAW:** 2026-10-15 · `RAW/2026-10-15-negocio.md`
 

@@ -1,6 +1,6 @@
 # Índice del Segundo Cerebro
 
-_Última construcción: 2026-10-15 · Fuente: `RAW/2026-10-15-negocio.md`_
+_Última construcción: 2026-10-15 · Fuentes: `RAW/2026-10-15-negocio.md`, `RAW/prompts/`, `RAW/wiki-externo/`_
 
 ## Temas
 - [[perfil-y-forma-de-trabajo]] — Quién es el usuario, cómo trabaja, qué feedback da y cómo colaborar.
@@ -13,6 +13,11 @@ _Última construcción: 2026-10-15 · Fuente: `RAW/2026-10-15-negocio.md`_
 - [[videos-y-voces]] — Producción de vídeo y voces por mercado.
 - [[equipo]] — Lo que se sabe (poco) del equipo y la regla de no inventar.
 - [[materiales-de-trabajo]] — Archivos de prompts e investigación de los que hay referencia.
+- [[angulos-publicitarios]] — Variación real vs. falsa, 5 niveles de conciencia, diversidad de formato, 90/10.
+- [[aumento-de-aov]] — Backend: order bumps, upsell pre y post-compra, KPIs (bump >20%, take rate >15%, AOV ≥1,5× front).
+- [[biblioteca-de-prompts]] — Los 23 prompts por etapa, con advertencias de riesgo.
+- [[claude-con-meta-ads]] — Conector de Meta Ads en Claude: qué hace, qué no y trampas (estado PAUSED falso).
+- [[contingencia-de-cuentas]] — Perfiles de backup, BMs y cuentas publicitarias ante bloqueos.
 - [[vacios-de-informacion]] — Qué falta saber (3 gaps principales).
 
 ## Proyectos

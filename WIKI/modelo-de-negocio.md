@@ -35,3 +35,5 @@ Productos vendibles, ofertas con demanda, más conversión, páginas persuasivas
 
 ## Cartera
 Ver [[index]] → sección Proyectos (A–K).
+
+Backend y upsells: [[aumento-de-aov]].

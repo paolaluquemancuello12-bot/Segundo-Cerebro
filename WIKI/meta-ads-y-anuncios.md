@@ -33,3 +33,5 @@ Si la oferta se siente débil → **reforzar la promesa**, no agregar explicaci�
 - ⚠️ No asumir derechos sobre contenido de terceros.
 
 Relacionado: [[videos-y-voces]], [[diseno-y-creatividades]].
+
+Ver también: [[angulos-publicitarios]] · [[claude-con-meta-ads]] · [[contingencia-de-cuentas]] · [[biblioteca-de-prompts]]

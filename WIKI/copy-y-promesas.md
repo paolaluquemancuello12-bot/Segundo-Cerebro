@@ -24,3 +24,5 @@ Lenguaje sencillo, frases de impacto, beneficios específicos, promesa fuerte, C
 
 ## Zonas sensibles
 Ingresos ([[proyecto-aroma-stones]]), salud y pérdida de peso ([[proyecto-come-y-baja]], [[proyecto-ejercicios-adultos-mayores]]), ahorro ([[proyecto-panes-turcos]]): no presentar resultados hipotéticos como garantizados. Cumplir Meta → [[meta-ads-y-anuncios]].
+
+Ángulos y niveles de conciencia: [[angulos-publicitarios]].
